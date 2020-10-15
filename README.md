@@ -1,2 +1,2 @@
-# react-debounce-throttle
+#debounce-throttle
 Description of throttle and debounce
